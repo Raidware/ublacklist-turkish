@@ -6,6 +6,10 @@ https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19 ht
 https://i.imgur.com/JYjvtOd.jpeg https://i.imgur.com/aUOiUbY.jpeg*/
 /\.ensonhaber\./
 
-/*Filistin yanlısı,taraflı haber sitesi
+/*Filistin yanlısı, taraflı haber sitesi
 https://x.com/trthaber/status/1801264973802332553*/
 /\.trthaber\./
+
+/*Yürüyen merdivenleri bilerek bozup, sabotaj yapmaları, taraflı haber sitesi
+https://www.ahaber.com.tr/ozel-haberler/2023/09/11/ulasimda-yurumeyen-merdivenler-a-haberi-boyle-uzaklastirmak-istediler Gerçeği ise: https://x.com/istanbulbld/status/1701575144009805961*/
+/\.ahaber\./
