@@ -1,0 +1,3 @@
+/* Şehidimizin ismini vermeyen, taraflı haber sitesi.
+https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19*/
+/\.gzt\./ 
