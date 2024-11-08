@@ -26,7 +26,7 @@ https://www.yenisafak.com/gundem/peygamber-efendimize-hakaret-etmisti-diamond-te
 *://dogruhaber.com.tr/*
 /\.habervitrini\./
 /\.tgrthaber\./
-/\.habernida\./
+*://habernida.com/*
 /\.borcka-haber\./
 /\.arguvan-siyaset-haberleri\./
 /\.takvim\./
