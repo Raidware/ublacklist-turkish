@@ -20,7 +20,7 @@ https://www.yenisafak.com/gundem/peygamber-efendimize-hakaret-etmisti-diamond-te
 /\.haber7\./
 /\.yeniakit\./
 /\.habervakti\./
-/\.beykozguncel\./
+*://beykozguncel.com/*
 /\.malatyatime\./
 /\.istiklal\./
 /\.dogruhaber\./
