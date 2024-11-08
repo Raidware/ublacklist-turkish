@@ -1,3 +1,7 @@
+/*Brawl Stars'ı kumar, zorbalık, anime diye yalandan kötüleme.
+Dakika 47:15 civarı ://www.dailymotion.com/video/x97wbnu*/
+/\.ulketv\./
+
 /* Şehidimizin ismini vermeyen, Discord'daki olaylarda panelciler yerine uygulamayı suçlayan taraflı haber sitesi.
 https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19 https://www.gzt.com/video/gercek-hayat/cocugunuzu-discorddan-uzak-tutun-2248131*/
 /\.gzt\./ 
