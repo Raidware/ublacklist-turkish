@@ -5,3 +5,7 @@ https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19 ht
 /*Taraflı haber sitesi
 https://i.imgur.com/JYjvtOd.jpeg https://i.imgur.com/aUOiUbY.jpeg*/
 /\.ensonhaber\./
+
+/*Filistin yanlısı,taraflı haber sitesi
+https://x.com/trthaber/status/1801264973802332553*/
+/\.trthaber\./
