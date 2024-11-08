@@ -1,8 +1,8 @@
 # ublacklist-turkish
 
-[uBlacklist](https://github.com/iorate/uBlacklist/)Google, Bing, Brave, DuckDuckGo, Ecosia, Kagi, Qwant, SearX, Startpage.com, Yahoo! JAPAN, Yandex arama motorları için
+[uBlacklist](https://github.com/iorate/uBlacklist/) Google, Bing, Brave, DuckDuckGo, Ecosia, Kagi, Qwant, SearX, Startpage.com, Yahoo! JAPAN, Yandex arama motorları için;
 
-Yalan, yanıltıcı, çöp vb sonuçları engeller. Engelleme sebeplerini `list.txt` içerisinden görebilirsiniz.
+Taraflı, yanıltıcı, yalan vb sonuçları engeller. Engelleme sebeplerini `list.txt` içerisinden görebilirsiniz.
 
 Engelleme listesine uBlackList üzerinden abone olmak için:
 ```
