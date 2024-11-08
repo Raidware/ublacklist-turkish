@@ -18,6 +18,14 @@ https://x.com/trthaber/status/1801264973802332553*/
 https://www.ahaber.com.tr/ozel-haberler/2023/09/11/ulasimda-yurumeyen-merdivenler-a-haberi-boyle-uzaklastirmak-istediler Gerçeği ise: https://x.com/istanbulbld/status/1701575144009805961*/
 /\.ahaber\./
 
+/*"Çocuklara kötü örnek olan Elrean", Popy Playtime korku oyununu çocuk oyunu gibi gösterme gibi yalan haber yapan siteler
+https://youtu.be/Ak_cU39sfYo
+https://youtu.be/fow4SMeiwdQ
+*/
+/\.atv\./
+/\.kanal7\./
+/\.kanald\./
+
 /*Yanlış bilgilere sahip boykot siteleri*/
 /\.boykot\./
 *://boykothareketi.com/*
