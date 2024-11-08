@@ -1,3 +1,7 @@
-/* Şehidimizin ismini vermeyen, taraflı haber sitesi.
-https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19*/
+/* Şehidimizin ismini vermeyen, Discord'daki olaylarda panelciler yerine uygulamayı suçlayan taraflı haber sitesi.
+https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19 https://www.gzt.com/video/gercek-hayat/cocugunuzu-discorddan-uzak-tutun-2248131*/
 /\.gzt\./ 
+
+/*Taraflı haber sitesi
+https://i.imgur.com/JYjvtOd.jpeg https://i.imgur.com/aUOiUbY.jpeg*/
+/\.ensonhaber\./
