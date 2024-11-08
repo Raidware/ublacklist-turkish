@@ -2,14 +2,23 @@
 https://x.com/gztcom/status/1825903610309333445?t=DlThi3rVMlIwXGSFpBexSA&s=19 https://www.gzt.com/video/gercek-hayat/cocugunuzu-discorddan-uzak-tutun-2248131*/
 /\.gzt\./ 
 
-/*Taraflı haber sitesi
+/*Taraflı haber sitesi.
 https://i.imgur.com/JYjvtOd.jpeg https://i.imgur.com/aUOiUbY.jpeg*/
 /\.ensonhaber\./
 
-/*Filistin yanlısı, taraflı haber sitesi
+/*Filistin yanlısı, taraflı haber sitesi.
 https://x.com/trthaber/status/1801264973802332553*/
 /\.trthaber\./
 
-/*Yürüyen merdivenleri bilerek bozup, sabotaj yapmaları, taraflı haber sitesi
+/*Yürüyen merdivenleri bilerek bozup, sabotaj yapmaları, taraflı haber sitesi.
 https://www.ahaber.com.tr/ozel-haberler/2023/09/11/ulasimda-yurumeyen-merdivenler-a-haberi-boyle-uzaklastirmak-istediler Gerçeği ise: https://x.com/istanbulbld/status/1701575144009805961*/
 /\.ahaber\./
+
+/*Diamond Tema'ya peygambere küfür etti diyerek yalan söyleyen haber siteleri.
+https://www.yenisafak.com/gundem/peygamber-efendimize-hakaret-etmisti-diamond-tema-hakkinda-yakalama-karari-cikarildi-4628144 https://m.haber7.com/guncel/haber/3434407-diamond-temaya-chpden-destek-geldi-peygamber-efendimize-hakarete-sahip-ciktilar https://www.habervakti.com/peygamberimize-hakaret-eden-diamond-tema-hakkinda-sorusturma-baslatildi https://www.yeniakit.com.tr/haber/peygamber-efendimize-kufur-edeni-evinde-saklayacak-dindar-kim-diamondi-bir-yerde-gorursem-ihbar-etmem-1865276.html https://www.habervakti.com/peygamberimize-hakaret-eden-diamond-tema-hakkinda-baslatilan-sorusturma-sonrasi-ulkeden-kacti https://beykozguncel.com/hz-muhammede-hakaret-eden-diamond-temaya-chp-beykozdan-destek*/
+/\.yenisafak\./
+/\.haber7\./
+/\.habervakti\./
+/\.yeniakit\./
+/\.habervakti\./
+/\.beykozguncel\./
