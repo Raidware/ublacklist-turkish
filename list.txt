@@ -14,6 +14,11 @@ https://i.imgur.com/JYjvtOd.jpeg https://i.imgur.com/aUOiUbY.jpeg*/
 https://x.com/trthaber/status/1801264973802332553*/
 /\.trthaber\./
 
+/*Aşırı sagci haber gazatesine ait site
+https://webtv.akittv.com.tr/mansetlerin-dili/andimiz-neden-kaldirildi-neden-geri-getiriliyor-7083
+*/
+/\.akittv\./
+
 /*Yürüyen merdivenleri bilerek bozup, sabotaj yapmaları, taraflı haber sitesi.
 https://www.ahaber.com.tr/ozel-haberler/2023/09/11/ulasimda-yurumeyen-merdivenler-a-haberi-boyle-uzaklastirmak-istediler Gerçeği ise: https://x.com/istanbulbld/status/1701575144009805961*/
 /\.ahaber\./
